@@ -17,7 +17,7 @@ I mainly work with **Python**, **Robot Framework**, and **Playwright/Selenium** 
 - 🐍 **Python**
 - 🤖 **Robot Framework**
 - 🌐 **Selenium / Playwright**
-- 🔗 **API Testing (Requests, RestAssured-style concepts)**
+- 🔗 **API Testing (Postman, Bruno)**
 - ⚙️ **GitHub Actions**
 
 ### Others
@@ -51,8 +51,8 @@ I mainly work with **Python**, **Robot Framework**, and **Playwright/Selenium** 
 ---
 
 ## 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/jaydennguyen)  
-- 📧 Email: `jayden.nguyen@example.com`
+- 💼 [LinkedIn](https://www.linkedin.com/in/vl99/)  
+- 📧 Email: `nvlam45@gmail.com`
 
 ---
 
